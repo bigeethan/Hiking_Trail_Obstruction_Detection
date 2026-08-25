@@ -1,1 +1,1 @@
-# Hiking_Trail_Crowding_ML
+# Hiking_Trail_Obstruction_Detection
