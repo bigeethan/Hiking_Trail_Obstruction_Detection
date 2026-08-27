@@ -35,6 +35,6 @@ Both datasets are adjusted to have output labels fitting the 3 class format.
 
 ## References
 
-[Freiburg Forest](https://deepscene.cs.uni-freiburg.de/)
-[TerrainSense](https://data.mendeley.com/datasets/r6cmjrr6kv/2)
-[DeepLabV3](https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/)
+* [Freiburg Forest](https://deepscene.cs.uni-freiburg.de/)
+* [TerrainSense](https://data.mendeley.com/datasets/r6cmjrr6kv/2)
+* [DeepLabV3](https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/)
